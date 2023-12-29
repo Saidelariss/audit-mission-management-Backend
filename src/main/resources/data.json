@@ -1,0 +1,172 @@
+[
+  {
+    "name": "COBIT",
+    "description": "Control Objectives for Information and Related Technologies",
+    "domains": [
+      {
+        "name": "EDM - Enterprise Governance of IT",
+        "description": "Ensure the enterprise's IT is directed and managed to achieve business objectives.",
+        "controls": [
+          {
+            "name": "Ensure Governance Framework Setting and Maintenance",
+            "description": "Establish and maintain the governance framework and the supporting processes to achieve the enterprise objectives."
+          },
+          {
+            "name": "Ensure Benefits Delivery",
+            "description": "Ensure that IT-enabled investments are managed to deliver optimized business benefits."
+          }
+        ]
+      },
+      {
+        "name": "APO - Align, Plan, and Organize",
+        "description": "Define a strategic IT plan that aligns with the enterprise's strategic objectives.",
+        "controls": [
+          {
+            "name": "Manage the IT Management Framework",
+            "description": "Define and maintain the IT management framework to execute the IT strategy."
+          },
+          {
+            "name": "Define the Information Architecture",
+            "description": "Define and maintain a formal framework for IT architecture to direct the design, development, and use of information in an enterprise."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CIS",
+    "description": "Center for Internet Security",
+    "domains": [
+      {
+        "name": "Security Controls",
+        "description": "Establish a foundational set of organizational-level information security controls to help organizations assess and improve their cybersecurity posture.",
+        "controls": [
+          {
+            "name": "Access Control",
+            "description": "Ensure that access to systems and networks is limited to authorized individuals and devices."
+          },
+          {
+            "name": "Data Protection",
+            "description": "Ensure that sensitive data is protected through secure storage and transmission."
+          }
+        ]
+      },
+      {
+        "name": "Security Operations",
+        "description": "Focus on the detection and response to cybersecurity threats.",
+        "controls": [
+          {
+            "name": "Incident Response and Management",
+            "description": "Develop and implement an incident response capability to quickly detect, respond to, and recover from cybersecurity incidents."
+          },
+          {
+            "name": "Continuous Monitoring",
+            "description": "Implement continuous monitoring processes to detect and respond to security events in real time."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SCAIO",
+    "description": "Security Compliance and Auditing for Infrastructure and Operations",
+    "domains": [
+      {
+        "name": "Infrastructure Security",
+        "description": "Implement security measures to protect the organization's infrastructure.",
+        "controls": [
+          {
+            "name": "Network Security",
+            "description": "Implement measures to secure the organization's network infrastructure."
+          },
+          {
+            "name": "Endpoint Protection",
+            "description": "Implement measures to secure endpoints, including servers, workstations, and mobile devices."
+          }
+        ]
+      },
+      {
+        "name": "Operational Compliance",
+        "description": "Ensure compliance with security policies and standards in daily operations.",
+        "controls": [
+          {
+            "name": "Policy Enforcement",
+            "description": "Enforce security policies and standards to ensure consistent compliance across the organization."
+          },
+          {
+            "name": "Audit and Accountability",
+            "description": "Implement auditing and accountability measures to track and monitor security-related activities."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IEC",
+    "description": "International Electrotechnical Commission",
+    "domains": [
+      {
+        "name": "IEC 62443 - Industrial Network and System Security",
+        "description": "Standards for industrial automation and control systems security.",
+        "controls": [
+          {
+            "name": "Security Development Lifecycle",
+            "description": "Implement a security development lifecycle for industrial automation and control systems."
+          },
+          {
+            "name": "Access Control and Policy Enforcement",
+            "description": "Implement access controls and policy enforcement mechanisms for industrial networks."
+          }
+        ]
+      },
+      {
+        "name": "IEC 27001 - Information Security Management",
+        "description": "Standards for information security management systems.",
+        "controls": [
+          {
+            "name": "Risk Assessment and Treatment",
+            "description": "Conduct risk assessments and apply treatment measures to manage information security risks."
+          },
+          {
+            "name": "Security Awareness and Training",
+            "description": "Provide security awareness and training programs for personnel to enhance information security."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISO",
+    "description": "International Organization for Standardization",
+    "domains": [
+      {
+        "name": "ISO 27002 - Information Security Controls",
+        "description": "Code of practice for information security controls.",
+        "controls": [
+          {
+            "name": "Information Classification and Handling",
+            "description": "Classify information assets and define controls for their handling."
+          },
+          {
+            "name": "Cryptographic Controls",
+            "description": "Implement cryptographic controls to protect sensitive information."
+          }
+        ]
+      },
+      {
+        "name": "ISO 31000 - Risk Management",
+        "description": "Principles and guidelines for risk management.",
+        "controls": [
+          {
+            "name": "Risk Identification and Assessment",
+            "description": "Identify and assess risks to the organization's information assets and operations."
+          },
+          {
+            "name": "Risk Treatment and Mitigation",
+            "description": "Develop and implement risk treatment plans to mitigate identified risks."
+          }
+        ]
+      }
+    ]
+  }
+]
