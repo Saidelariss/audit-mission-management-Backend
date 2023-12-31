@@ -168,5 +168,184 @@
         ]
       }
     ]
-  }
-]
+  },
+  {
+    "name": "CSA IoT",
+    "description": "Description for CSA IoT",
+    "domains": [
+      {
+        "name": "Domain Name",
+        "description": "Domain Description",
+        "controls": [
+          {
+            "name": "Control Name",
+            "description": "Control Description"
+          },
+          {
+            "name": "Another Control",
+            "description": "Another Control Description"
+          }
+        ]
+      },
+      {
+        "name": "Another Domain",
+        "description": "Another Domain Description",
+        "controls": [
+          {
+            "name": "Control in Another Domain",
+            "description": "Control Description in Another Domain"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISO 27001 v2022",
+    "description": "Description for ISO 27001 v2022",
+    "domains": [
+      {
+        "name": "Domain Name",
+        "description": "Domain Description",
+        "controls": [
+          {
+            "name": "Control Name",
+            "description": "Control Description"
+          },
+          {
+            "name": "Another Control",
+            "description": "Another Control Description"
+          }
+        ]
+      },
+      {
+        "name": "Another Domain",
+        "description": "Another Domain Description",
+        "controls": [
+          {
+            "name": "Control in Another Domain",
+            "description": "Control Description in Another Domain"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISO 27002 v2022",
+    "description": "Description for ISO 27002 v2022",
+    "domains": [
+      {
+        "name": "Domain Name",
+        "description": "Domain Description",
+        "controls": [
+          {
+            "name": "Control Name",
+            "description": "Control Description"
+          },
+          {
+            "name": "Another Control",
+            "description": "Another Control Description"
+          }
+        ]
+      },
+      {
+        "name": "Another Domain",
+        "description": "Another Domain Description",
+        "controls": [
+          {
+            "name": "Control in Another Domain",
+            "description": "Control Description in Another Domain"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISO 27701",
+    "description": "Description for ISO 27701",
+    "domains": [
+      {
+        "name": "Domain Name",
+        "description": "Domain Description",
+        "controls": [
+          {
+            "name": "Control Name",
+            "description": "Control Description"
+          },
+          {
+            "name": "Another Control",
+            "description": "Another Control Description"
+          }
+        ]
+      },
+      {
+        "name": "Another Domain",
+        "description": "Another Domain Description",
+        "controls": [
+          {
+            "name": "Control in Another Domain",
+            "description": "Control Description in Another Domain"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MITRE ATT&CK",
+    "description": "Description for MITRE ATT&CK",
+    "domains": [
+      {
+        "name": "Domain Name",
+        "description": "Domain Description",
+        "controls": [
+          {
+            "name": "Control Name",
+            "description": "Control Description"
+          },
+          {
+            "name": "Another Control",
+            "description": "Another Control Description"
+          }
+        ]
+      },
+      {
+        "name": "Another Domain",
+        "description": "Another Domain Description",
+        "controls": [
+          {
+            "name": "Control in Another Domain",
+            "description": "Control Description in Another Domain"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "NIST Privacy Framework",
+    "description": "Description for NIST Privacy Framework",
+    "domains": [
+      {
+        "name": "Domain Name",
+        "description": "Domain Description",
+        "controls": [
+          {
+            "name": "Control Name",
+            "description": "Control Description"
+          },
+          {
+            "name": "Another Control",
+            "description": "Another Control Description"
+          }
+        ]
+      },
+      {
+        "name": "Another Domain",
+        "description": "Another Domain Description",
+        "controls": [
+          {
+            "name": "Control in Another Domain",
+            "description": "Control Description in Another Domain"
+          }
+        ]
+      }
+    ]
+  }]
